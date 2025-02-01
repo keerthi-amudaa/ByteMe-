@@ -1,4 +1,3 @@
-# ByteMe-
 # 📊 Natural Language Data Explorer
 
 **Natural Language-Powered Data Analysis & Visualization**  
